@@ -1,4 +1,4 @@
-![Análise Preditiva Operacional em Saúde](./images/readme-analise-preditiva.png.png)
+![Análise Preditiva Operacional em Saúde](./images/analise-preditiva.png.png)
 
 ## Projetos relacionados
 
