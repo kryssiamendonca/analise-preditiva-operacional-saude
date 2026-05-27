@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./images/readme-analise-preditiva.png.png" alt="Análise Preditiva em Saúde" width="100%">
-</p>
+![Análise Preditiva Operacional em Saúde](./images/readme-analise-preditiva.png)
 
 ## Projetos relacionados
 
